@@ -11,6 +11,8 @@
       <project.java.version>1.8</project.java.version> <!-- Consider changing to 11 -->
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
       <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+      <sonar.host.url>http://54.235.228.140:9000/</sonar.host.url>
+	    <sonar.login>c460cbe174fdd51b56d17c36f9d148bc5cd3c062</sonar.login>
   </properties>
 
   <dependencies>
